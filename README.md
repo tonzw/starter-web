@@ -6,6 +6,7 @@ more edits n stuff
 ## Purpose
 
 Sample website with plenty of files for demos
+more purpose stuff
 
 ## Deployment
 
