@@ -14,3 +14,6 @@ whist etc
 more deployment shite
 
 non stop
+
+## Copyright
+Git.Training
