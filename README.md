@@ -8,7 +8,7 @@ more edits n stuff
 Sample website with plenty of files for demos
 more purpose stuff
 
-adding line for rebasing ex
+adding line for rebasing ex, and more changes
 
 ## Deployment
 
