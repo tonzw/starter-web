@@ -18,7 +18,7 @@ more deployment shite
 non stop
 
 ## Copyright
-Git.Training
+Git.Training. All rights reservied
 
 ## How to Contribute
 please whist etc
