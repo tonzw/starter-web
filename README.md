@@ -17,3 +17,6 @@ non stop
 
 ## Copyright
 Git.Training
+
+## How to Contribute
+please whist etc
