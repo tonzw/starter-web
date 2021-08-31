@@ -23,3 +23,5 @@ Git.Training. All rights reservied
 
 ## How to Contribute
 please whist etc
+
+## Updates from dev 1
